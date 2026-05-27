@@ -1,0 +1,12 @@
+DiseasePredictionProject/
+│
+├── app.py
+├── model.py
+├── spark_processing.py
+├── generate_dataset.py
+├── dataset.csv
+├── requirements.txt
+│
+├── templates/
+│   ├── index.html
+│   └── result.html
